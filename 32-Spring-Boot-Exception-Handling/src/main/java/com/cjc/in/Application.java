@@ -14,7 +14,7 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	
-		 log.info("Spring Boot Exception Project Reloaded");
+		 log.info("Spring Boot Exception Project Reloaded Success");
 	}
 
 }
